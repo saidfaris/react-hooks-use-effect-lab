@@ -30,7 +30,7 @@ function App() {
         ) : (
           <>
             <h1>Game Over</h1>
-            <h2>Total Correct: {score}</h2>
+            <h2>Total correct score: {score}</h2>
           </>
         )}
       </section>

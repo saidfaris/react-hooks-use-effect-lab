@@ -24,7 +24,7 @@ function Question({ question, onAnswered }) {
           </button>
         );
       })}
-      <h5>{timeRemaining} seconds remaining</h5>
+      <h5>{timeRemaining} this are the seconds that are remaining</h5>
     </>
   );
 }
